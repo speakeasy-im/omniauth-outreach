@@ -1,2 +1,2 @@
-require "omniauth-outreach/version" # rubocop:disable FileName
-require "omniauth/strategies/outreach"
+require_relative "omniauth-outreach/version" # rubocop:disable FileName
+require_relative "omniauth/strategies/outreach"
